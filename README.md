@@ -6,7 +6,7 @@ Portfólio feito no curso de HTML e CSS da Alura
 | -------------  | --- |
 | :sparkles: Nome        | **Meu Portfólio**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | 
+| :rocket: URL         | https://url-deploy.com.br/
 | :fire: Desafio     | (https://cursos.alura.com.br/formacao-html-css)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
